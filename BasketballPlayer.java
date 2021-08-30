@@ -161,7 +161,7 @@ public class BasketballPlayer {
 	}
 
 	/**
-	 * Gets the 2 point shot percent made. For example if there were 5 2 point shots attempted and 3 
+	 * Gets the 2 point shot percent made. For example if there were five 2 point shots attempted and 3 
 	 * were made, then the percent would be 60.0. If no attempts have been made then the percent
 	 * is 0.0.
 	 * @return the free throw percent made.
